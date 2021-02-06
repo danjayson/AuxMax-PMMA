@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 16d60b48cc268f7419b9953fd134d890
+timeCreated: 1530060729
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bias Spring
+    100002: Coil Spring
+    100004: Compensator Spool
+    100006: Compensator Spring
+    100008: Control Piston
+    100010: Counter Piston
+    100012: Cover
+    100014: Cylinder Block
+    100016: Drive Shaft
+    100018: Flow Adjustment Screw
+    100020: //RootNode
+    100022: Piston Guide
+    100024: Piston Shoe
+    100026: Plane001
+    100028: Plane002
+    100030: Plane003
+    100032: Pressure Compensator Adjustment Screw
+    100034: Pressure Compensator Valve
+    100036: Pump Housing
+    100038: Retainer Plate
+    100040: Shaft Bearing 1
+    100042: Shaft Bearing 2
+    100044: Swash Plate
+    100046: Valve Plate
+    100048: Compensator Valve Cover
+    100050: Housing cover
+    400000: Bias Spring
+    400002: Coil Spring
+    400004: Compensator Spool
+    400006: Compensator Spring
+    400008: Control Piston
+    400010: Counter Piston
+    400012: Cover
+    400014: Cylinder Block
+    400016: Drive Shaft
+    400018: Flow Adjustment Screw
+    400020: //RootNode
+    400022: Piston Guide
+    400024: Piston Shoe
+    400026: Plane001
+    400028: Plane002
+    400030: Plane003
+    400032: Pressure Compensator Adjustment Screw
+    400034: Pressure Compensator Valve
+    400036: Pump Housing
+    400038: Retainer Plate
+    400040: Shaft Bearing 1
+    400042: Shaft Bearing 2
+    400044: Swash Plate
+    400046: Valve Plate
+    400048: Compensator Valve Cover
+    400050: Housing cover
+    2100000: 02 - Default
+    2100002: 03 - Default
+    2100004: 07 - Default
+    2100006: No Name
+    2100008: 10 - Default
+    2100010: 12 - Default
+    2100012: 13 - Default
+    2100014: 11 - Default
+    2100016: 19 - Default
+    2100018: 14 - Default
+    2100020: 20 - Default
+    2100022: 06 - Default
+    2100024: 15 - Default
+    2100026: 04 - Default
+    2300000: Bias Spring
+    2300002: Coil Spring
+    2300004: Compensator Spool
+    2300006: Compensator Spring
+    2300008: Control Piston
+    2300010: Counter Piston
+    2300012: Cover
+    2300014: Cylinder Block
+    2300016: Drive Shaft
+    2300018: Flow Adjustment Screw
+    2300020: Piston Guide
+    2300022: Piston Shoe
+    2300024: Plane001
+    2300026: Plane002
+    2300028: Plane003
+    2300030: Pressure Compensator Adjustment Screw
+    2300032: Pressure Compensator Valve
+    2300034: Pump Housing
+    2300036: Retainer Plate
+    2300038: Shaft Bearing 1
+    2300040: Shaft Bearing 2
+    2300042: Swash Plate
+    2300044: Valve Plate
+    2300046: Compensator Valve Cover
+    2300048: Housing cover
+    3300000: Bias Spring
+    3300002: Coil Spring
+    3300004: Compensator Spool
+    3300006: Compensator Spring
+    3300008: Control Piston
+    3300010: Counter Piston
+    3300012: Cover
+    3300014: Cylinder Block
+    3300016: Drive Shaft
+    3300018: Flow Adjustment Screw
+    3300020: Piston Guide
+    3300022: Piston Shoe
+    3300024: Plane001
+    3300026: Plane002
+    3300028: Plane003
+    3300030: Pressure Compensator Adjustment Screw
+    3300032: Pressure Compensator Valve
+    3300034: Pump Housing
+    3300036: Retainer Plate
+    3300038: Shaft Bearing 1
+    3300040: Shaft Bearing 2
+    3300042: Swash Plate
+    3300044: Valve Plate
+    3300046: Compensator Valve Cover
+    3300048: Housing cover
+    4300000: Plane001
+    4300002: Plane002
+    4300004: Plane003
+    4300006: Drive Shaft
+    4300008: Cylinder Block
+    4300010: Piston Shoe
+    4300012: Swash Plate
+    4300014: Flow Adjustment Screw
+    4300016: Bias Spring
+    4300018: Cover
+    4300020: Coil Spring
+    4300022: Retainer Plate
+    4300024: Valve Plate
+    4300026: Pump Housing
+    4300028: Shaft Bearing 1
+    4300030: Control Piston
+    4300032: Shaft Bearing 2
+    4300034: Counter Piston
+    4300036: Pressure Compensator Adjustment Screw
+    4300038: Pressure Compensator Valve
+    4300040: Compensator Spool
+    4300042: Compensator Spring
+    4300044: Piston Guide
+    4300046: Compensator Valve Cover
+    4300048: Housing cover
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Main Menu.unity
+    guid: 6cbb05c93fde79a43b697564739c86a7
+  - enabled: 1
+    path: Assets/Scene/Transition.unity
+    guid: 46d01db0662b3744a8d0e135e7cc8168
+  - enabled: 1
+    path: Assets/Scene/Lecture.unity
+    guid: d95420c8df941844db5d47ffba1b9530
+  - enabled: 1
+    path: Assets/Scene/Models.unity
+    guid: e8170c39051a9ca498ce79abee1480e2
+  - enabled: 1
+    path: Assets/Scene/SelectionMenu.unity
+    guid: fbda6f4069dcdac40a6882498faca074
+  - enabled: 1
+    path: Assets/Scene/Simulation.unity
+    guid: 4535471872ade354aa46202214e57ff9
+  - enabled: 1
+    path: Assets/Scene/TopicLectures/Pumps.unity
+    guid: d99897daf1562dc41a83987820e76916
+  - enabled: 1
+    path: Assets/Scene/Auxmac_Machinery/Machine1/GearPump.unity
+    guid: adbc676185291f3408d4d648347d777f
+  - enabled: 1
+    path: Assets/Scene/Auxmac_Machinery/Machine1/ScrewPump.unity
+    guid: 9f4a547f024956649ae0895a97bce72b
+  - enabled: 1
+    path: Assets/Scene/Auxmac_Machinery/Machine1/VanePump.unity
+    guid: aaf8670e0d8f9e147925594123383f27
+  - enabled: 1
+    path: Assets/Scene/Auxmac_Machinery/Machine1/PistonPump.unity
+    guid: 7433edf1da6995b4cb4c4f2d4979ae5b
+  - enabled: 1
+    path: Assets/Scene/Auxmac_Machinery/Machine1/CentrifugalPump.unity
+    guid: 377c4fe449cf84f40885443c39b15e61

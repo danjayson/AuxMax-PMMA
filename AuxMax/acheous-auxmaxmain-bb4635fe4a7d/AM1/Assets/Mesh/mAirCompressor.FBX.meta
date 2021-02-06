@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 85e15419f8b324241a5e6c5582f32fe4
+timeCreated: 1530060730
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Auto Drain Trap
+    100002: Base
+    100004: Bearing Cover(F)
+    100006: Bearing Cover(R)
+    100008: Breather Cap
+    100010: Conn. Rod Bolt
+    100012: Connecting Rod
+    100014: Connecting Rod Cap
+    100016: Cooler 1st Stage
+    100018: Cooler 2nd Stage
+    100020: Cooler Cover 1st Stage
+    100022: Cooler Cover 2nd Stage
+    100024: Cooler Cover Gasket 1st Stage
+    100026: Cooler Cover Gasket 2nd Stage
+    100028: Cooler Plate 1st Stage
+    100030: Cooler Plate 2nd Stage
+    100032: Cooler Plate Gasket 1st Stage
+    100034: Cooler Plate Gasket 2nd Stage
+    100036: Cooling Water Pump
+    100038: Crank Case
+    100040: Crank Cover
+    100042: Crankshaft
+    100044: Cylinder
+    100046: Cylinder Head
+    100048: Cylinder Head Gasket
+    100050: Delivery Pipe
+    100052: Delivery Pipe Screw
+    100054: Delivery Pipe Screw 2
+    100056: Delivery Valve Assy (2nd Stage)
+    100058: Drain Separator
+    100060: Drain Separator Screw
+    100062: Drain Valve
+    100064: Drain Valves
+    100066: Gasket (Air Inlet Pipe)
+    100068: Gasket (Water Outlet Pipe)
+    100070: Guide Ring 2nd Stage 1
+    100072: Hanger
+    100074: Instrument Panel
+    100076: Lift Washer 2nd Stage
+    100078: Lift Washer 2nd Stage 1
+    100080: Lubricator Assembly
+    100082: Magnetic Valve
+    100084: //RootNode
+    100086: Nut (Tightening Torque) 2nd Stage
+    100088: Nut (Tightening Torque) 2nd Stage 1
+    100090: Oil Drain Plug
+    100092: Oil Filter Element Assembly
+    100094: Oil Port
+    100096: Oil Pump Case
+    100098: Oil Release Valve Body
+    100100: Oil Sreen Assembly
+    100102: Piston
+    100104: Piston Pin
+    100106: Piston Ring
+    100108: Plane001
+    100110: Plane002
+    100112: Pressure Switch
+    100114: Retaining Ring C Type 2nd Stage
+    100116: Retaining Ring C Type 2nd Stage 1
+    100118: Safety Valve 1st Stage
+    100120: Safety Valve 2nd Stage
+    100122: Side Cover A
+    100124: Side Cover B
+    100126: Spring/Knock Pin 2nd Stage
+    100128: Spring/Knock Pin 2nd Stage 1
+    100130: Suction Filter
+    100132: Suction Filter 2
+    100134: Suction Filter Screw
+    100136: Suction Valve Assy (2nd Stage)
+    100138: Valve Clamping Bolt 2nd Stage
+    100140: Valve Clamping Bolt 2nd Stage 1
+    100142: Valve Clamping Nut 2nd Stage
+    100144: Valve Clamping Nut 2nd Stage 1
+    100146: Valve Flange (Delivery 2nd Stage)
+    100148: Valve Flange (Suction 2nd Stage)
+    100150: Valve Guard 2nd Stage
+    100152: Valve Guard 2nd Stage 1
+    100154: Valve Plate 2nd Stage
+    100156: Valve Plate 2nd Stage 1
+    100158: Valve Retainer 2nd Stage
+    100160: Valve Retainer 2nd Stage 1
+    100162: Valve Seat (Del.) 2nd Stage
+    100164: Valve Seat (Del.) 2nd Stage 1
+    100166: Valve Seat 1st Stage
+    100168: Valve Seat 1st Stage Gasket
+    100170: Valve Set Bolt 2nd Stage
+    100172: Valve Set Bolt 2nd Stage 1
+    100174: Valve Set Spring 2nd Stage
+    100176: Valve Set Spring 2nd Stage 1
+    100178: Valve Set Spring Retainer 2nd Stage
+    100180: Valve Set Spring Retainer 2nd Stage 1
+    100182: Valve Spring 2nd Stage
+    100184: Valve Spring 2nd Stage 1
+    100186: Washer 2nd Stage
+    100188: Water Checker
+    100190: Water Checker Screw
+    100192: Water Safety Valve
+    400000: Auto Drain Trap
+    400002: Base
+    400004: Bearing Cover(F)
+    400006: Bearing Cover(R)
+    400008: Breather Cap
+    400010: Conn. Rod Bolt
+    400012: Connecting Rod
+    400014: Connecting Rod Cap
+    400016: Cooler 1st Stage
+    400018: Cooler 2nd Stage
+    400020: Cooler Cover 1st Stage
+    400022: Cooler Cover 2nd Stage
+    400024: Cooler Cover Gasket 1st Stage
+    400026: Cooler Cover Gasket 2nd Stage
+    400028: Cooler Plate 1st Stage
+    400030: Cooler Plate 2nd Stage
+    400032: Cooler Plate Gasket 1st Stage
+    400034: Cooler Plate Gasket 2nd Stage
+    400036: Cooling Water Pump
+    400038: Crank Case
+    400040: Crank Cover
+    400042: Crankshaft
+    400044: Cylinder
+    400046: Cylinder Head
+    400048: Cylinder Head Gasket
+    400050: Delivery Pipe
+    400052: Delivery Pipe Screw
+    400054: Delivery Pipe Screw 2
+    400056: Delivery Valve Assy (2nd Stage)
+    400058: Drain Separator
+    400060: Drain Separator Screw
+    400062: Drain Valve
+    400064: Drain Valves
+    400066: Gasket (Air Inlet Pipe)
+    400068: Gasket (Water Outlet Pipe)
+    400070: Guide Ring 2nd Stage 1
+    400072: Hanger
+    400074: Instrument Panel
+    400076: Lift Washer 2nd Stage
+    400078: Lift Washer 2nd Stage 1
+    400080: Lubricator Assembly
+    400082: Magnetic Valve
+    400084: //RootNode
+    400086: Nut (Tightening Torque) 2nd Stage
+    400088: Nut (Tightening Torque) 2nd Stage 1
+    400090: Oil Drain Plug
+    400092: Oil Filter Element Assembly
+    400094: Oil Port
+    400096: Oil Pump Case
+    400098: Oil Release Valve Body
+    400100: Oil Sreen Assembly
+    400102: Piston
+    400104: Piston Pin
+    400106: Piston Ring
+    400108: Plane001
+    400110: Plane002
+    400112: Pressure Switch
+    400114: Retaining Ring C Type 2nd Stage
+    400116: Retaining Ring C Type 2nd Stage 1
+    400118: Safety Valve 1st Stage
+    400120: Safety Valve 2nd Stage
+    400122: Side Cover A
+    400124: Side Cover B
+    400126: Spring/Knock Pin 2nd Stage
+    400128: Spring/Knock Pin 2nd Stage 1
+    400130: Suction Filter
+    400132: Suction Filter 2
+    400134: Suction Filter Screw
+    400136: Suction Valve Assy (2nd Stage)
+    400138: Valve Clamping Bolt 2nd Stage
+    400140: Valve Clamping Bolt 2nd Stage 1
+    400142: Valve Clamping Nut 2nd Stage
+    400144: Valve Clamping Nut 2nd Stage 1
+    400146: Valve Flange (Delivery 2nd Stage)
+    400148: Valve Flange (Suction 2nd Stage)
+    400150: Valve Guard 2nd Stage
+    400152: Valve Guard 2nd Stage 1
+    400154: Valve Plate 2nd Stage
+    400156: Valve Plate 2nd Stage 1
+    400158: Valve Retainer 2nd Stage
+    400160: Valve Retainer 2nd Stage 1
+    400162: Valve Seat (Del.) 2nd Stage
+    400164: Valve Seat (Del.) 2nd Stage 1
+    400166: Valve Seat 1st Stage
+    400168: Valve Seat 1st Stage Gasket
+    400170: Valve Set Bolt 2nd Stage
+    400172: Valve Set Bolt 2nd Stage 1
+    400174: Valve Set Spring 2nd Stage
+    400176: Valve Set Spring 2nd Stage 1
+    400178: Valve Set Spring Retainer 2nd Stage
+    400180: Valve Set Spring Retainer 2nd Stage 1
+    400182: Valve Spring 2nd Stage
+    400184: Valve Spring 2nd Stage 1
+    400186: Washer 2nd Stage
+    400188: Water Checker
+    400190: Water Checker Screw
+    400192: Water Safety Valve
+    2100000: 08 - Default
+    2100002: 03 - Default
+    2100004: No Name
+    2300000: Auto Drain Trap
+    2300002: Base
+    2300004: Bearing Cover(F)
+    2300006: Bearing Cover(R)
+    2300008: Breather Cap
+    2300010: Conn. Rod Bolt
+    2300012: Connecting Rod
+    2300014: Connecting Rod Cap
+    2300016: Cooler Cover 1st Stage
+    2300018: Cooler Cover 2nd Stage
+    2300020: Cooler Cover Gasket 1st Stage
+    2300022: Cooler Cover Gasket 2nd Stage
+    2300024: Cooler Plate 1st Stage
+    2300026: Cooler Plate 2nd Stage
+    2300028: Cooler Plate Gasket 1st Stage
+    2300030: Cooler Plate Gasket 2nd Stage
+    2300032: Cooling Water Pump
+    2300034: Crank Case
+    2300036: Crank Cover
+    2300038: Crankshaft
+    2300040: Cylinder
+    2300042: Cylinder Head
+    2300044: Cylinder Head Gasket
+    2300046: Delivery Pipe
+    2300048: Delivery Pipe Screw
+    2300050: Delivery Pipe Screw 2
+    2300052: Drain Separator
+    2300054: Drain Separator Screw
+    2300056: Drain Valve
+    2300058: Drain Valves
+    2300060: Gasket (Air Inlet Pipe)
+    2300062: Gasket (Water Outlet Pipe)
+    2300064: Guide Ring 2nd Stage 1
+    2300066: Hanger
+    2300068: Instrument Panel
+    2300070: Lift Washer 2nd Stage
+    2300072: Lift Washer 2nd Stage 1
+    2300074: Lubricator Assembly
+    2300076: Magnetic Valve
+    2300078: Nut (Tightening Torque) 2nd Stage
+    2300080: Nut (Tightening Torque) 2nd Stage 1
+    2300082: Oil Drain Plug
+    2300084: Oil Filter Element Assembly
+    2300086: Oil Port
+    2300088: Oil Pump Case
+    2300090: Oil Release Valve Body
+    2300092: Oil Sreen Assembly
+    2300094: Piston
+    2300096: Piston Pin
+    2300098: Piston Ring
+    2300100: Plane001
+    2300102: Plane002
+    2300104: Pressure Switch
+    2300106: Retaining Ring C Type 2nd Stage
+    2300108: Retaining Ring C Type 2nd Stage 1
+    2300110: Safety Valve 1st Stage
+    2300112: Safety Valve 2nd Stage
+    2300114: Side Cover A
+    2300116: Side Cover B
+    2300118: Spring/Knock Pin 2nd Stage
+    2300120: Spring/Knock Pin 2nd Stage 1
+    2300122: Suction Filter
+    2300124: Suction Filter 2
+    2300126: Suction Filter Screw
+    2300128: Valve Clamping Bolt 2nd Stage
+    2300130: Valve Clamping Bolt 2nd Stage 1
+    2300132: Valve Clamping Nut 2nd Stage
+    2300134: Valve Clamping Nut 2nd Stage 1
+    2300136: Valve Flange (Delivery 2nd Stage)
+    2300138: Valve Flange (Suction 2nd Stage)
+    2300140: Valve Guard 2nd Stage
+    2300142: Valve Guard 2nd Stage 1
+    2300144: Valve Plate 2nd Stage
+    2300146: Valve Plate 2nd Stage 1
+    2300148: Valve Retainer 2nd Stage
+    2300150: Valve Retainer 2nd Stage 1
+    2300152: Valve Seat (Del.) 2nd Stage
+    2300154: Valve Seat (Del.) 2nd Stage 1
+    2300156: Valve Seat 1st Stage
+    2300158: Valve Seat 1st Stage Gasket
+    2300160: Valve Set Bolt 2nd Stage
+    2300162: Valve Set Bolt 2nd Stage 1
+    2300164: Valve Set Spring 2nd Stage
+    2300166: Valve Set Spring 2nd Stage 1
+    2300168: Valve Set Spring Retainer 2nd Stage
+    2300170: Valve Set Spring Retainer 2nd Stage 1
+    2300172: Valve Spring 2nd Stage
+    2300174: Valve Spring 2nd Stage 1
+    2300176: Washer 2nd Stage
+    2300178: Water Checker
+    2300180: Water Checker Screw
+    2300182: Water Safety Valve
+    3300000: Auto Drain Trap
+    3300002: Base
+    3300004: Bearing Cover(F)
+    3300006: Bearing Cover(R)
+    3300008: Breather Cap
+    3300010: Conn. Rod Bolt
+    3300012: Connecting Rod
+    3300014: Connecting Rod Cap
+    3300016: Cooler Cover 1st Stage
+    3300018: Cooler Cover 2nd Stage
+    3300020: Cooler Cover Gasket 1st Stage
+    3300022: Cooler Cover Gasket 2nd Stage
+    3300024: Cooler Plate 1st Stage
+    3300026: Cooler Plate 2nd Stage
+    3300028: Cooler Plate Gasket 1st Stage
+    3300030: Cooler Plate Gasket 2nd Stage
+    3300032: Cooling Water Pump
+    3300034: Crank Case
+    3300036: Crank Cover
+    3300038: Crankshaft
+    3300040: Cylinder
+    3300042: Cylinder Head
+    3300044: Cylinder Head Gasket
+    3300046: Delivery Pipe
+    3300048: Delivery Pipe Screw
+    3300050: Delivery Pipe Screw 2
+    3300052: Drain Separator
+    3300054: Drain Separator Screw
+    3300056: Drain Valve
+    3300058: Drain Valves
+    3300060: Gasket (Air Inlet Pipe)
+    3300062: Gasket (Water Outlet Pipe)
+    3300064: Guide Ring 2nd Stage 1
+    3300066: Hanger
+    3300068: Instrument Panel
+    3300070: Lift Washer 2nd Stage
+    3300072: Lift Washer 2nd Stage 1
+    3300074: Lubricator Assembly
+    3300076: Magnetic Valve
+    3300078: Nut (Tightening Torque) 2nd Stage
+    3300080: Nut (Tightening Torque) 2nd Stage 1
+    3300082: Oil Drain Plug
+    3300084: Oil Filter Element Assembly
+    3300086: Oil Port
+    3300088: Oil Pump Case
+    3300090: Oil Release Valve Body
+    3300092: Oil Sreen Assembly
+    3300094: Piston
+    3300096: Piston Pin
+    3300098: Piston Ring
+    3300100: Plane001
+    3300102: Plane002
+    3300104: Pressure Switch
+    3300106: Retaining Ring C Type 2nd Stage
+    3300108: Retaining Ring C Type 2nd Stage 1
+    3300110: Safety Valve 1st Stage
+    3300112: Safety Valve 2nd Stage
+    3300114: Side Cover A
+    3300116: Side Cover B
+    3300118: Spring/Knock Pin 2nd Stage
+    3300120: Spring/Knock Pin 2nd Stage 1
+    3300122: Suction Filter
+    3300124: Suction Filter 2
+    3300126: Suction Filter Screw
+    3300128: Valve Clamping Bolt 2nd Stage
+    3300130: Valve Clamping Bolt 2nd Stage 1
+    3300132: Valve Clamping Nut 2nd Stage
+    3300134: Valve Clamping Nut 2nd Stage 1
+    3300136: Valve Flange (Delivery 2nd Stage)
+    3300138: Valve Flange (Suction 2nd Stage)
+    3300140: Valve Guard 2nd Stage
+    3300142: Valve Guard 2nd Stage 1
+    3300144: Valve Plate 2nd Stage
+    3300146: Valve Plate 2nd Stage 1
+    3300148: Valve Retainer 2nd Stage
+    3300150: Valve Retainer 2nd Stage 1
+    3300152: Valve Seat (Del.) 2nd Stage
+    3300154: Valve Seat (Del.) 2nd Stage 1
+    3300156: Valve Seat 1st Stage
+    3300158: Valve Seat 1st Stage Gasket
+    3300160: Valve Set Bolt 2nd Stage
+    3300162: Valve Set Bolt 2nd Stage 1
+    3300164: Valve Set Spring 2nd Stage
+    3300166: Valve Set Spring 2nd Stage 1
+    3300168: Valve Set Spring Retainer 2nd Stage
+    3300170: Valve Set Spring Retainer 2nd Stage 1
+    3300172: Valve Spring 2nd Stage
+    3300174: Valve Spring 2nd Stage 1
+    3300176: Washer 2nd Stage
+    3300178: Water Checker
+    3300180: Water Checker Screw
+    3300182: Water Safety Valve
+    4300000: Plane001
+    4300002: Plane002
+    4300004: Side Cover A
+    4300006: Side Cover B
+    4300008: Valve Flange (Delivery 2nd Stage)
+    4300010: Valve Flange (Suction 2nd Stage)
+    4300012: Oil Sreen Assembly
+    4300014: Oil Filter Element Assembly
+    4300016: Lubricator Assembly
+    4300018: Oil Port
+    4300020: Breather Cap
+    4300022: Instrument Panel
+    4300024: Drain Separator
+    4300026: Safety Valve 1st Stage
+    4300028: Safety Valve 2nd Stage
+    4300030: Drain Valve
+    4300032: Magnetic Valve
+    4300034: Oil Drain Plug
+    4300036: Auto Drain Trap
+    4300038: Drain Valves
+    4300040: Pressure Switch
+    4300042: Water Safety Valve
+    4300044: Water Checker
+    4300046: Cylinder Head
+    4300048: Crank Cover
+    4300050: Oil Pump Case
+    4300052: Oil Release Valve Body
+    4300054: Cooling Water Pump
+    4300056: Hanger
+    4300058: Delivery Pipe
+    4300060: Cylinder
+    4300062: Crank Case
+    4300064: Base
+    4300066: Cylinder Head Gasket
+    4300068: Piston
+    4300070: Connecting Rod
+    4300072: Piston Pin
+    4300074: Conn. Rod Bolt
+    4300076: Bearing Cover(F)
+    4300078: Crankshaft
+    4300080: Connecting Rod Cap
+    4300082: Suction Filter
+    4300084: Suction Filter Screw
+    4300086: Valve Seat 1st Stage
+    4300088: Water Checker Screw
+    4300090: Gasket (Air Inlet Pipe)
+    4300092: Gasket (Water Outlet Pipe)
+    4300094: Valve Seat 1st Stage Gasket
+    4300096: Delivery Pipe Screw
+    4300098: Delivery Pipe Screw 2
+    4300100: Drain Separator Screw
+    4300102: Suction Filter 2
+    4300104: Piston Ring
+    4300106: Bearing Cover(R)
+    4300108: Valve Plate 2nd Stage
+    4300110: Valve Spring 2nd Stage
+    4300112: Valve Guard 2nd Stage
+    4300114: Lift Washer 2nd Stage
+    4300116: Valve Clamping Nut 2nd Stage
+    4300118: Spring/Knock Pin 2nd Stage
+    4300120: Valve Seat (Del.) 2nd Stage
+    4300122: Valve Retainer 2nd Stage
+    4300124: Valve Set Spring Retainer 2nd Stage
+    4300126: Valve Set Bolt 2nd Stage
+    4300128: Nut (Tightening Torque) 2nd Stage
+    4300130: Retaining Ring C Type 2nd Stage
+    4300132: Valve Clamping Bolt 2nd Stage
+    4300134: Washer 2nd Stage
+    4300136: Valve Set Spring 2nd Stage
+    4300138: Valve Spring 2nd Stage 1
+    4300140: Valve Set Spring Retainer 2nd Stage 1
+    4300142: Valve Set Spring 2nd Stage 1
+    4300144: Valve Set Bolt 2nd Stage 1
+    4300146: Valve Seat (Del.) 2nd Stage 1
+    4300148: Valve Retainer 2nd Stage 1
+    4300150: Valve Plate 2nd Stage 1
+    4300152: Valve Guard 2nd Stage 1
+    4300154: Valve Clamping Nut 2nd Stage 1
+    4300156: Valve Clamping Bolt 2nd Stage 1
+    4300158: Spring/Knock Pin 2nd Stage 1
+    4300160: Retaining Ring C Type 2nd Stage 1
+    4300162: Nut (Tightening Torque) 2nd Stage 1
+    4300164: Lift Washer 2nd Stage 1
+    4300166: Guide Ring 2nd Stage 1
+    4300168: Cooler Plate Gasket 2nd Stage
+    4300170: Cooler Plate 2nd Stage
+    4300172: Cooler Cover Gasket 2nd Stage
+    4300174: Cooler Cover 2nd Stage
+    4300176: Cooler Plate Gasket 1st Stage
+    4300178: Cooler Plate 1st Stage
+    4300180: Cooler Cover Gasket 1st Stage
+    4300182: Cooler Cover 1st Stage
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

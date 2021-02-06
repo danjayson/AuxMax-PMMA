@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: a66b8c826a7f1b741a302fdcbcfb073c
+timeCreated: 1532507855
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1SealFace
+    100002: 2O-ring
+    100004: 3SpringActuator
+    100006: 4Gasket
+    100008: BackPlate
+    100010: Impeller
+    100012: Impeller key
+    100014: MechanicalSeal
+    100016: //RootNode
+    100018: MotorBracket
+    100020: MotorCover
+    100022: MotorwithShaft
+    100024: ShaftSleeve
+    100026: Volute
+    400000: 1SealFace
+    400002: 2O-ring
+    400004: 3SpringActuator
+    400006: 4Gasket
+    400008: BackPlate
+    400010: Impeller
+    400012: Impeller key
+    400014: MechanicalSeal
+    400016: //RootNode
+    400018: MotorBracket
+    400020: MotorCover
+    400022: MotorwithShaft
+    400024: ShaftSleeve
+    400026: Volute
+    2100000: No Name
+    2100002: 01 - Default
+    2300000: 1SealFace
+    2300002: 2O-ring
+    2300004: 3SpringActuator
+    2300006: 4Gasket
+    2300008: BackPlate
+    2300010: Impeller
+    2300012: Impeller key
+    2300014: MechanicalSeal
+    2300016: MotorBracket
+    2300018: MotorCover
+    2300020: MotorwithShaft
+    2300022: ShaftSleeve
+    2300024: Volute
+    3300000: 1SealFace
+    3300002: 2O-ring
+    3300004: 3SpringActuator
+    3300006: 4Gasket
+    3300008: BackPlate
+    3300010: Impeller
+    3300012: Impeller key
+    3300014: MechanicalSeal
+    3300016: MotorBracket
+    3300018: MotorCover
+    3300020: MotorwithShaft
+    3300022: ShaftSleeve
+    3300024: Volute
+    4300000: Volute
+    4300002: ShaftSleeve
+    4300004: MotorCover
+    4300006: MotorBracket
+    4300008: MotorwithShaft
+    4300010: MechanicalSeal
+    4300012: 2O-ring
+    4300014: 3SpringActuator
+    4300016: 1SealFace
+    4300018: 4Gasket
+    4300020: Impeller key
+    4300022: Impeller
+    4300024: BackPlate
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

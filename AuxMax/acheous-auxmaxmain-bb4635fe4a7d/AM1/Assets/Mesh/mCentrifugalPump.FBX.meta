@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 5ca138bdd17da054b881542a50a9f023
+timeCreated: 1530060729
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 100-Casing
+    100002: 101-Impeller
+    100004: 105-LanternRing
+    100006: 106-PackingRing1
+    100008: 106-PackingRing2
+    100010: 106-PackingRing3
+    100012: 106-PackingRing4
+    100014: 106-PackingRing5
+    100016: 107-Gland003
+    100018: 112-ThrustBearing1
+    100020: 112-ThrustBearing2
+    100022: 122-ShafSleeve
+    100024: 122-Shaft
+    100026: 134A-BearingHousing
+    100028: 134B-BearingHousing
+    100030: 136-BearingLockNut
+    100032: 136-BearingLockWasher
+    100034: 184-StuffingBoxCover
+    100036: 228-BearingFrame
+    100038: 228-BearingFrameCover
+    100040: 332A-LabyrinthSealOutboard
+    100042: 333A-LabyrinthSealInboard
+    100044: 409-RadialBearing
+    100046: 768-CasingLug
+    100048: //RootNode
+    100050: screw1
+    100052: screw2
+    100054: screw3
+    100056: Screw4
+    100058: 100-CasingUnWrap
+    100060: Plane001
+    100062: plug
+    100064: plug1
+    100066: plug2
+    100068: screw5
+    400000: 100-Casing
+    400002: 101-Impeller
+    400004: 105-LanternRing
+    400006: 106-PackingRing1
+    400008: 106-PackingRing2
+    400010: 106-PackingRing3
+    400012: 106-PackingRing4
+    400014: 106-PackingRing5
+    400016: 107-Gland003
+    400018: 112-ThrustBearing1
+    400020: 112-ThrustBearing2
+    400022: 122-ShafSleeve
+    400024: 122-Shaft
+    400026: 134A-BearingHousing
+    400028: 134B-BearingHousing
+    400030: 136-BearingLockNut
+    400032: 136-BearingLockWasher
+    400034: 184-StuffingBoxCover
+    400036: 228-BearingFrame
+    400038: 228-BearingFrameCover
+    400040: 332A-LabyrinthSealOutboard
+    400042: 333A-LabyrinthSealInboard
+    400044: 409-RadialBearing
+    400046: 768-CasingLug
+    400048: //RootNode
+    400050: screw1
+    400052: screw2
+    400054: screw3
+    400056: Screw4
+    400058: 100-CasingUnWrap
+    400060: Plane001
+    400062: plug
+    400064: plug1
+    400066: plug2
+    400068: screw5
+    2100000: No Name
+    2100002: 07 - Default
+    2100004: 14 - Default
+    2100006: 17 - Default
+    2100008: 10 - Default
+    2100010: 16 - Default
+    2100012: 11 - Default
+    2100014: 02 - Default
+    2100016: 03 - Default
+    2100018: 04 - Default
+    2100020: 09 - Default
+    2300000: 100-Casing
+    2300002: 101-Impeller
+    2300004: 105-LanternRing
+    2300006: 106-PackingRing1
+    2300008: 106-PackingRing2
+    2300010: 106-PackingRing3
+    2300012: 106-PackingRing4
+    2300014: 106-PackingRing5
+    2300016: 107-Gland003
+    2300018: 112-ThrustBearing1
+    2300020: 112-ThrustBearing2
+    2300022: 122-ShafSleeve
+    2300024: 122-Shaft
+    2300026: 134A-BearingHousing
+    2300028: 134B-BearingHousing
+    2300030: 136-BearingLockNut
+    2300032: 136-BearingLockWasher
+    2300034: 184-StuffingBoxCover
+    2300036: 228-BearingFrame
+    2300038: 228-BearingFrameCover
+    2300040: 332A-LabyrinthSealOutboard
+    2300042: 333A-LabyrinthSealInboard
+    2300044: 409-RadialBearing
+    2300046: 768-CasingLug
+    2300048: screw1
+    2300050: screw2
+    2300052: screw3
+    2300054: Screw4
+    2300056: 100-CasingUnWrap
+    2300058: Plane001
+    2300060: plug
+    2300062: plug1
+    2300064: plug2
+    2300066: screw5
+    3300000: 100-Casing
+    3300002: 101-Impeller
+    3300004: 105-LanternRing
+    3300006: 106-PackingRing1
+    3300008: 106-PackingRing2
+    3300010: 106-PackingRing3
+    3300012: 106-PackingRing4
+    3300014: 106-PackingRing5
+    3300016: 107-Gland003
+    3300018: 112-ThrustBearing1
+    3300020: 112-ThrustBearing2
+    3300022: 122-ShafSleeve
+    3300024: 122-Shaft
+    3300026: 134A-BearingHousing
+    3300028: 134B-BearingHousing
+    3300030: 136-BearingLockNut
+    3300032: 136-BearingLockWasher
+    3300034: 184-StuffingBoxCover
+    3300036: 228-BearingFrame
+    3300038: 228-BearingFrameCover
+    3300040: 332A-LabyrinthSealOutboard
+    3300042: 333A-LabyrinthSealInboard
+    3300044: 409-RadialBearing
+    3300046: 768-CasingLug
+    3300048: screw1
+    3300050: screw2
+    3300052: screw3
+    3300054: Screw4
+    3300056: 100-CasingUnWrap
+    3300058: Plane001
+    3300060: plug
+    3300062: plug1
+    3300064: plug2
+    3300066: screw5
+    4300000: 122-Shaft
+    4300002: 105-LanternRing
+    4300004: 106-PackingRing5
+    4300006: 106-PackingRing4
+    4300008: 106-PackingRing3
+    4300010: 106-PackingRing2
+    4300012: 106-PackingRing1
+    4300014: 107-Gland003
+    4300016: 409-RadialBearing
+    4300018: 112-ThrustBearing1
+    4300020: 112-ThrustBearing2
+    4300022: 136-BearingLockNut
+    4300024: 136-BearingLockWasher
+    4300026: 228-BearingFrameCover
+    4300028: 122-ShafSleeve
+    4300030: 332A-LabyrinthSealOutboard
+    4300032: 333A-LabyrinthSealInboard
+    4300034: 228-BearingFrame
+    4300036: screw1
+    4300038: 134A-BearingHousing
+    4300040: screw3
+    4300042: 134B-BearingHousing
+    4300044: Screw4
+    4300046: 100-Casing
+    4300048: 768-CasingLug
+    4300050: screw2
+    4300052: 101-Impeller
+    4300054: 184-StuffingBoxCover
+    4300056: Plane001
+    4300058: screw5
+    4300060: plug1
+    4300062: plug2
+    4300064: 100-CasingUnWrap
+    4300066: plug
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
